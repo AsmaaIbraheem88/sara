@@ -145,7 +145,7 @@ header p {
 }
 
 .animated {
-    animation-duration: 1s;
+    animation-duration: 2s;
     animation-fill-mode: both;
 }
 
